@@ -12,7 +12,7 @@ JavaScript interactivity, accessibility, animations, and theme persistence.
 
 Live Demo:
 
-https://transcendent-tiramisu-68da31.netlify.app/pricing
+https://clearpayv1.netlify.app/
 
 ---
 
